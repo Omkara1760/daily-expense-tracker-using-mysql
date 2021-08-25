@@ -102,10 +102,6 @@ $cnt=$cnt+1;
                                 </tr>
 
                             </table>
-
-
-
-
                         </div>
                     </div>
                 </div><!-- /.panel-->
